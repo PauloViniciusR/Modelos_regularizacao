@@ -17,26 +17,3 @@ Projeto de estudo e comparacao de modelos de regressao com tecnicas de regulariz
 3. Treinamento com validacao cruzada para reduzir risco de overfitting.
 4. Comparacao dos modelos com R2, MAE e RMSE.
 5. Visualizacao de coeficientes, residuos e desempenho.
-
-## Tecnologias
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-
-## Como executar
-
-Instale as dependencias principais:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn pyarrow jupyter
-```
-
-Depois abra o notebook:
-
-```bash
-jupyter notebook notebooks/01_regularizacao.ipynb
-```
